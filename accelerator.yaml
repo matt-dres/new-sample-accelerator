@@ -1,0 +1,7 @@
+accelerator:
+  displayName: Simple Accelerator for Testing
+  description: This is a new accelerator showing how to create an accelerator
+  name: simple-accelerator-for-testing
+  tags:
+  - getting-started
+  - simple
